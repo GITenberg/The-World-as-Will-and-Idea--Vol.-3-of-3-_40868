@@ -1,0 +1,43 @@
+_repo: The-World-as-Will-and-Idea--Vol.-3-of-3-_40868
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Haldane, R. B. Haldane (Richard Burdon Haldane), Viscount
+    alias: Haldane, Richard Burdon Haldane
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '7742'
+    url: http://www.gutenberg.org/2009/agents/7742
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Burdon_Haldane%2C_1st_Viscount_Haldane
+  - agent_name: Kemp, J. (John)
+    alias: Kemp, John, M.A.
+    gutenberg_agent_id: '41713'
+    url: http://www.gutenberg.org/2009/agents/41713
+covers:
+- cover_type: archival
+  image_path: 40868-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Schopenhauer, Arthur
+    birthdate: 1788
+    deathdate: 1860
+    gutenberg_agent_id: '3648'
+    url: http://www.gutenberg.org/2009/agents/3648
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
+description: Translation of "Die Welt als Wille und Vorstellung."
+gutenberg_issued: '2012-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- !lcsh 'Idea (Philosophy)'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Will'
+title: The World as Will and Idea (Vol. 3 of 3)
+url: http://www.gutenberg.org/ebooks/40868
