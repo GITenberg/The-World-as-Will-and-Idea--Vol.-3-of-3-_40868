@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: Translation of "Die Welt als Wille und Vorstellung."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40868#The-World-as-Will-and-Idea--Vol.-3-of-3-
 gutenberg_issued: '2012-09-26'
 gutenberg_type: Text
 identifiers:
