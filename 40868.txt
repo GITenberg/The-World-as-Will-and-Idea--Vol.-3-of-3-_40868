@@ -3,10 +3,13 @@ Arthur Schopenhauer
 
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost no
-restrictions whatsoever. You may copy it, give it away or re-use it under
-the terms of the Project Gutenberg License included with this eBook or
-online at http://www.gutenberg.org/license
+This ebook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you'll have to check the laws of the country where you are located
+before using this ebook.
 
 
 
@@ -208,33 +211,32 @@ are in other respects, appears as one of the last results, is with me the
 very first. The _intellect_, as mere function of the brain, is involved in
 the destruction of the body, but the _will_ is by no means so. From this
 heterogeneity of the two, together with the subordinate nature of the
-intellect, it becomes conceivable that man, in the depths of his
-self-consciousness, feels himself to be eternal and indestructible, but
-yet can have no memory, either _a parte ante_ or _a parte post_, beyond
-the duration of his life. I do not wish to anticipate here the exposition
-of the true indestructibility of our nature, which has its place in the
+intellect, it becomes conceivable that man, in the depths of his self-
+consciousness, feels himself to be eternal and indestructible, but yet can
+have no memory, either _a parte ante_ or _a parte post_, beyond the
+duration of his life. I do not wish to anticipate here the exposition of
+the true indestructibility of our nature, which has its place in the
 fourth book, but have only sought to indicate the place where it links
 itself on.
 
 But now that, in an expression which is certainly one-sided, yet from our
 standpoint true, the body is called a mere idea depends upon the fact than
 an existence in space, as something extended, and in time, as something
-that changes, and more closely determined in both through the
-causal-nexus, is only possible in the _idea_, for all those determinations
-rest upon its forms, thus in a brain, in which accordingly such an
-existence appears as something objective, _i.e._, foreign; therefore even
-our own body can have this kind of existence only in a brain. For the
-knowledge which I have of my body as extended, space-occupying, and
-movable, is only _indirect_: it is a picture in my brain which is brought
-about by means of the senses and understanding. The body is given to me
-_directly_ only in muscular action and in pain and pleasure, both of which
-primarily and directly belong to the _will_. But the combination of these
-two different kinds of knowledge of my own body afterwards affords the
-further insight that all other things which also have the objective
-existence described, which is primarily only in my brain, are not
-therefore entirely non-existent apart from it, but must also ultimately
-_in themselves_ be that which makes itself known in self-consciousness as
-_will_.
+that changes, and more closely determined in both through the causal-
+nexus, is only possible in the _idea_, for all those determinations rest
+upon its forms, thus in a brain, in which accordingly such an existence
+appears as something objective, _i.e._, foreign; therefore even our own
+body can have this kind of existence only in a brain. For the knowledge
+which I have of my body as extended, space-occupying, and movable, is only
+_indirect_: it is a picture in my brain which is brought about by means of
+the senses and understanding. The body is given to me _directly_ only in
+muscular action and in pain and pleasure, both of which primarily and
+directly belong to the _will_. But the combination of these two different
+kinds of knowledge of my own body afterwards affords the further insight
+that all other things which also have the objective existence described,
+which is primarily only in my brain, are not therefore entirely non-
+existent apart from it, but must also ultimately _in themselves_ be that
+which makes itself known in self-consciousness as _will_.
 
 
 
@@ -678,21 +680,21 @@ genius is ill adapted and unserviceable for practical life, and is
 therefore for the most part unfortunate. Goethe's "Tasso" is written from
 this point of view. As now genius proper depends upon the _absolute_
 strength of the intellect, which must be purchased by a correspondingly
-excessive vehemence of disposition, so, on the other hand, the great
-pre-eminence in practical life that makes generals and statesmen depends
-upon the _relative_ strength of the intellect, thus upon the highest
-degree of it that can be attained without too great excitability of the
-emotions, and too great vehemence of character, and that therefore can
-hold its own even in the storm. Great firmness of will and constancy of
-mind, together with a capable and fine understanding, are here sufficient;
-and whatever goes beyond this acts detrimentally, for too great a
-development of the intelligence directly impedes firmness of character and
-resolution of will. Hence this kind of eminence is not so abnormal, and is
-a hundred times less rare than the former kind; and accordingly we see
-great generals and great ministers appear in every age, whenever the
-merely external conditions are favourable to their efficiency. Great poets
-and philosophers, on the other hand, leave centuries waiting for them; and
-yet humanity may be contented even with this rare appearance of them, for
+excessive vehemence of disposition, so, on the other hand, the great pre-
+eminence in practical life that makes generals and statesmen depends upon
+the _relative_ strength of the intellect, thus upon the highest degree of
+it that can be attained without too great excitability of the emotions,
+and too great vehemence of character, and that therefore can hold its own
+even in the storm. Great firmness of will and constancy of mind, together
+with a capable and fine understanding, are here sufficient; and whatever
+goes beyond this acts detrimentally, for too great a development of the
+intelligence directly impedes firmness of character and resolution of
+will. Hence this kind of eminence is not so abnormal, and is a hundred
+times less rare than the former kind; and accordingly we see great
+generals and great ministers appear in every age, whenever the merely
+external conditions are favourable to their efficiency. Great poets and
+philosophers, on the other hand, leave centuries waiting for them; and yet
+humanity may be contented even with this rare appearance of them, for
 their works remain, and do not exist only for the present, like the
 achievements of those other men. It is also quite in keeping with the law
 of the parsimony of nature referred to above that it bestows great
@@ -1056,8 +1058,8 @@ sustains the animal body, in that it carries out both its unconscious and
 its conscious functions;--this is the first step in the fundamental
 knowledge of my metaphysics. Paradoxical as it even now seems to many that
 the will in itself is without knowledge, yet the scholastics in some way
-already recognised and confessed it; for Jul. Caes. Vaninus (that
-well-known sacrifice to fanaticism and priestly fury), who was thoroughly
+already recognised and confessed it; for Jul. Caes. Vaninus (that well-
+known sacrifice to fanaticism and priestly fury), who was thoroughly
 versed in their philosophy, says in his "_Amphitheatro_," p. 181:
 "_Voluntas potentia coeca est, ex scholasticorum opinione_." That, further,
 it is that same will which in the plant forms the bud in order to develop
@@ -1084,8 +1086,8 @@ directly, and that is in the movements of our own body. In consequence of
 this knowledge we must call it _will_. It is the insight that that which
 acts and strives in nature, and exhibits itself in ever more perfect
 phenomena, when it has worked itself up so far that the light of knowledge
-falls directly upon it, _i.e._, when it has attained to the state of
-self-consciousness--exists as that _will_, which is what is most intimately
+falls directly upon it, _i.e._, when it has attained to the state of self-
+consciousness--exists as that _will_, which is what is most intimately
 known to us, and therefore cannot be further explained by anything else,
 but rather affords the explanation of all other things. It is accordingly
 the _thing in itself_ so far as this can ever be reached by knowledge.
@@ -1284,9 +1286,9 @@ _elastic_ bodies as the more _courageous_, which seek to repel the enemy,
 or at least to prevent him from pursuing further. Thus in the one secret
 which (besides gravity) is left by mechanics otherwise so clear, in the
 communicability of motion, we see a manifestation of the fundamental
-effort of the will in all its phenomena, the effort after
-self-preservation, which shows itself even at the lowest grades as that
-which is essential.
+effort of the will in all its phenomena, the effort after self-
+preservation, which shows itself even at the lowest grades as that which
+is essential.
 
 In unorganised nature the will objectifies itself primarily in the
 universal forces, and only by means of these in the phenomena of the
@@ -1831,8 +1833,8 @@ for example, instead of the elephant it has only the tapir, instead of the
 lion the puma, instead of the tiger the jaguar, instead of the camel the
 lama, and instead of apes proper only monkeys. Even from this last defect
 it may be concluded that in America nature was not able to rise to man;
-for even from the nearest grade below man, the chimpanzee and the
-orang-outang or pongo, the step to man was still an excessively great one.
+for even from the nearest grade below man, the chimpanzee and the orang-
+outang or pongo, the step to man was still an excessively great one.
 Correspondingly we find that the three races of men which, both upon
 physiological and linguistic grounds, are undoubtedly equally original,
 the Caucasian, the Mongolian, and the Ethiopian, are only at home in the
@@ -2135,10 +2137,10 @@ with empirical necessity, in the same way as the transcendental ideality
 of phenomena consists with their empirical reality. That only under this
 assumption the action of a man, in spite of the necessity with which it
 proceeds from his character and the motives, is yet _his own_ I have shown
-in my prize essay on the freedom of the will; with this, however,
-self-dependency is attributed to his nature. The same relation holds good
-of all things in the world. The strictest _necessity_, carried out
-honestly with rigid consistency, and the most perfect _freedom_, rising to
+in my prize essay on the freedom of the will; with this, however, self-
+dependency is attributed to his nature. The same relation holds good of
+all things in the world. The strictest _necessity_, carried out honestly
+with rigid consistency, and the most perfect _freedom_, rising to
 omnipotence, had to appear at once and together in philosophy; but,
 without doing violence to truth, this could only take place by placing the
 whole _necessity_ in the _acting and doing_ (_Operari_), and the whole
@@ -2174,12 +2176,12 @@ _i.e._, the true nature of the world, so also does _multiplicity_. This is
 sufficiently explained in § 25 of the first volume. I have only to add
 here one remark in confirmation and illustration of this truth.
 
-Every one knows only _one_ being quite immediately--his own will in
-self-consciousness. Everything else he knows only indirectly, and then
-judges it by analogy with this; a process which he carries further in
-proportion to the grade of his reflective powers. Even this ultimately
-springs from the fact that there really is _only one being_; the illusion
-of multiplicity (_Maja_), which proceeds from the forms of external,
+Every one knows only _one_ being quite immediately--his own will in self-
+consciousness. Everything else he knows only indirectly, and then judges
+it by analogy with this; a process which he carries further in proportion
+to the grade of his reflective powers. Even this ultimately springs from
+the fact that there really is _only one being_; the illusion of
+multiplicity (_Maja_), which proceeds from the forms of external,
 objective comprehension, could not penetrate to inner, simple
 consciousness; therefore this always finds before it only one being.
 
@@ -2350,11 +2352,11 @@ part of every radius; while the peripherical end of this radius is in the
 most rapid revolution, with the surface, which represents time and its
 content, the other end, at the centre, which represents eternity, remains
 in the profoundest peace, because the centre is the point of which the
-rising half is not different from the sinking. Therefore in the
-Bhagavad-gita it is said: "_Haud distributum animantibus, et quasi
-distributum tamen insidens, animantiumque sustentaculum id cognoscendum,
-edax et rursus genitale_" (Lect. 13, 16 vers. Schlegel). Certainly we fall
-here into mystical and figurative language, but it is the only language in
+rising half is not different from the sinking. Therefore in the Bhagavad-
+gita it is said: "_Haud distributum animantibus, et quasi distributum
+tamen insidens, animantiumque sustentaculum id cognoscendum, edax et
+rursus genitale_" (Lect. 13, 16 vers. Schlegel). Certainly we fall here
+into mystical and figurative language, but it is the only language in
 which anything can be said on this entirely transcendent theme. So this
 simile also may pass. The human race may be imagined as an _animal
 compositum_, a form of life of which many polypi, especially those which
@@ -2499,10 +2501,10 @@ concealed; and as we assume the latter as necessary, so also we assume the
 former, and therefore go on searching for it, however long we may already
 have done so in vain. This is, for example, the case with the spleen, as
 to the use of which men never cease inventing hypotheses, till some day
-one shall have proved itself correct. So is it also with the large
-spiral-formed teeth of the babyroussa, the horn-shaped excrescences of
-certain caterpillars, and more of the like. Negative cases are also judged
-by us according to the same rule; for example, that in a class which, as a
+one shall have proved itself correct. So is it also with the large spiral-
+formed teeth of the babyroussa, the horn-shaped excrescences of certain
+caterpillars, and more of the like. Negative cases are also judged by us
+according to the same rule; for example, that in a class which, as a
 whole, is so uniform as that of lizards, so important a part as the
 bladder is present in many species, while it is wanting in others;
 similarly that dolphins and certain cetacea related to them are entirely
@@ -2828,9 +2830,9 @@ naivete, he expresses it as something self-evident in his _Lettre a M.
 Nicaise_ (_Spinozae op. ed Paulus_, vol. ii. p. 672): "_Les causes finales,
 ou ce qui est la meme chose, la consideration de la sagesse divine dans
 l'ordre des choses._" (The devil also _meme chose_!) At the same point of
-view we find, indeed, Englishmen even at the present day. The
-Bridgewater-Treatise-men--Lord Brougham, &c.--nay, even Richard Owen also,
-in his "_Osteologie Comparee_," thinks precisely as Leibnitz, which I have
+view we find, indeed, Englishmen even at the present day. The Bridgewater-
+Treatise-men--Lord Brougham, &c.--nay, even Richard Owen also, in his
+"_Osteologie Comparee_," thinks precisely as Leibnitz, which I have
 already found fault with in the first volume. To all these teleology is at
 once also theology, and at every instance of design recognised in nature,
 instead of thinking and learning to understand nature, they break at once
@@ -2903,14 +2905,14 @@ nature, knows of no physico-theology--such a thing has never entered his
 mind,--and he has never looked at the world for the purpose of seeing
 whether it was a bungled piece of work. He is in his heart pure from all
 this, for he also sets up hypotheses as to the origin of animals and men
-(_De generat. anim._, iii. 11) without lighting upon the
-physico-theological train of thought. He always says: "{~GREEK SMALL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}
-(_natura facit_), never {~GREEK SMALL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER IOTA~}" (_natura facta est_). But after
-he has truly and diligently studied nature, he finds that it everywhere
-proceeds teleologically, and he says: "{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER OMICRON WITH DASIA~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER OMEGA~}{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER NU~}
-{~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}" (_naturam nihil frustra facere cernimus_), _De respir._, c. 10; and
-in the books, _De partibus animalium_, which are a comparative anatomy:
-"{~GREEK CAPITAL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER GAMMA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~}, {~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER EPSILON~} {~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}.--{~GREEK CAPITAL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER EPSILON WITH DASIA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER ALPHA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}
+(_De generat. anim._, iii. 11) without lighting upon the physico-
+theological train of thought. He always says: "{~GREEK SMALL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~} (_natura
+facit_), never {~GREEK SMALL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER IOTA~}" (_natura facta est_). But after he has
+truly and diligently studied nature, he finds that it everywhere proceeds
+teleologically, and he says: "{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER OMICRON WITH DASIA~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER OMEGA~}{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}"
+(_naturam nihil frustra facere cernimus_), _De respir._, c. 10; and in the
+books, _De partibus animalium_, which are a comparative anatomy: "{~GREEK CAPITAL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~}
+{~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER GAMMA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~}, {~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER EPSILON~} {~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}.--{~GREEK CAPITAL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER EPSILON WITH DASIA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER ALPHA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}
 {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ALPHA~}.--{~GREEK CAPITAL LETTER PI~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER CHI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~} {~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~} {~GREEK SMALL LETTER LAMDA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER GAMMA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~} {~GREEK SMALL LETTER EPSILON WITH DASIA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER ALPHA~}, {~GREEK SMALL LETTER OMICRON WITH DASIA~}{~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~} {~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER IOTA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER LAMDA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER IOTA~},
 {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER OMICRON WITH DASIA~} {~GREEK SMALL LETTER ETA WITH DASIA~} {~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER ETA~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}; {~GREEK SMALL LETTER OMEGA WITH DASIA~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER EPSILON~} {~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER IOTA~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER NU~}, {~GREEK SMALL LETTER OMICRON WITH DASIA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER IOTA~} {~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER IOTA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER IOTA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER NU~}, {~GREEK SMALL LETTER OMICRON WITH DASIA~} {~GREEK SMALL LETTER DELTA~}{~GREEK SMALL LETTER ETA~}
 {~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER IOTA~} {~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER LAMDA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER PHI~}{~GREEK SMALL LETTER UPSILON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}. {~GREEK CAPITAL LETTER EPSILON~}{~GREEK SMALL LETTER PI~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~} {~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER OMEGA~}{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER ALPHA~} {~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER RHO~}{~GREEK SMALL LETTER GAMMA~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER NU~}; {~GREEK SMALL LETTER EPSILON WITH DASIA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER ALPHA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER NU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER FINAL SIGMA~} {~GREEK SMALL LETTER GAMMA~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER RHO~} {~GREEK SMALL LETTER EPSILON WITH DASIA~}{~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER ALPHA~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER NU~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMEGA~}{~GREEK SMALL LETTER NU~}
@@ -4155,20 +4157,19 @@ by being applied to the universal of existence, whereby it then devotes
 itself to the service of the whole human race, as the normal intellect to
 that of the individual. In order to make this perfectly comprehensible one
 might say: if the normal man consists of two-thirds will and one-third
-intellect, the genius, on the contrary, has two-thirds intellect and
-one-third will. This might, then, be further illustrated by a chemical
-simile: the base and the acid of a neutral salt are distinguished by the
-fact that in each of the two the radical has the converse relation to
-oxygen to that which it has in the other. The base or the alkali is so
-because in it the radical predominates with reference to oxygen, and the
-acid is so because in it oxygen predominates. In the same way now the
-normal man and the genius are related in respect of will and intellect.
-From this arises a thorough distinction between them, which is visible
-even in their whole nature and behaviour, but comes out most clearly in
-their achievements. One might add the difference that while that total
-opposition between the chemical materials forms the strongest affinity and
-attraction between them, in the human race the opposite is rather wont to
-be found.
+intellect, the genius, on the contrary, has two-thirds intellect and one-
+third will. This might, then, be further illustrated by a chemical simile:
+the base and the acid of a neutral salt are distinguished by the fact that
+in each of the two the radical has the converse relation to oxygen to that
+which it has in the other. The base or the alkali is so because in it the
+radical predominates with reference to oxygen, and the acid is so because
+in it oxygen predominates. In the same way now the normal man and the
+genius are related in respect of will and intellect. From this arises a
+thorough distinction between them, which is visible even in their whole
+nature and behaviour, but comes out most clearly in their achievements.
+One might add the difference that while that total opposition between the
+chemical materials forms the strongest affinity and attraction between
+them, in the human race the opposite is rather wont to be found.
 
 The first manifestation which such a superfluity of the power of knowledge
 calls forth shows itself for the most part in the most original and
@@ -4391,12 +4392,12 @@ bright flame when I fled from threatening evil. The tender poem, like the
 rainbow, is only drawn on a dark ground; hence the genius of the poet
 loves the element of melancholy."
 
-This is to be explained from the fact that since the will constantly
-re-establishes its original sway over the intellect, the latter more
-easily withdraws from this under unfavourable personal relations; because
-it gladly turns from adverse circumstances, in order to a certain extent
-to divert itself, and now directs itself with so much the greater energy
-to the foreign external world, thus more easily becomes purely objective.
+This is to be explained from the fact that since the will constantly re-
+establishes its original sway over the intellect, the latter more easily
+withdraws from this under unfavourable personal relations; because it
+gladly turns from adverse circumstances, in order to a certain extent to
+divert itself, and now directs itself with so much the greater energy to
+the foreign external world, thus more easily becomes purely objective.
 Favourable personal relations act conversely. Yet as a whole and in
 general the melancholy which accompanies genius depends upon the fact that
 the brighter the intellect which enlightens the will to live, the more
@@ -4602,12 +4603,12 @@ atmosphere of want. Analogous to this, we see the beautiful, even apart
 from these, rarely combined with the useful. Lofty and beautiful trees
 bear no fruit; the fruit-trees are small, ugly cripples. The full garden
 rose is not fruitful, but the small, wild, almost scentless roses are. The
-most beautiful buildings are not the useful ones; a temple is no
-dwelling-house. A man of high, rare mental endowments compelled to apply
-himself to a merely useful business, for which the most ordinary man would
-be fitted, is like a costly vase decorated with the most beautiful
-painting which is used as a kitchen pot; and to compare useful people with
-men of genius is like comparing building-stone with diamonds.
+most beautiful buildings are not the useful ones; a temple is no dwelling-
+house. A man of high, rare mental endowments compelled to apply himself to
+a merely useful business, for which the most ordinary man would be fitted,
+is like a costly vase decorated with the most beautiful painting which is
+used as a kitchen pot; and to compare useful people with men of genius is
+like comparing building-stone with diamonds.
 
 Thus the merely practical man uses his intellect for that for which nature
 destined it, the comprehension of the relations of things, partly to each
@@ -4648,8 +4649,8 @@ incomprehensible to others, who see them transported with grief, joy,
 care, fear, anger, &c., by things which leave the every-day man quite
 composed. Thus, then, the genius lacks _soberness_, which simply consists
 in this, that one sees in things nothing more than actually belongs to
-them, especially with reference to our possible ends; therefore no
-sober-minded man can be a genius. With the disadvantages which have been
+them, especially with reference to our possible ends; therefore no sober-
+minded man can be a genius. With the disadvantages which have been
 enumerated there is also associated hyper-sensibility, which an abnormally
 developed nervous and cerebral system brings with it, and indeed in union
 with the vehemence and passionateness of will which is certainly
@@ -4931,18 +4932,18 @@ et l'intelligence des animaux_," _p. Flourens_, 1841. It is there said, p.
 et developpee de si bonne heure, decroit avec l'age. L'orang-outang,
 lorsqu'il est jeune, nous etonne par sa penetration, par sa ruse, par son
 adresse; l'orang-outang, devenu adulte, n'est plus qu'un animal grossier,
-brutal, intraitable. Et il en est de tous les singes comme de
-l'orang-outang. Dans tous, l'intelligence decroit a mesure que les forces
+brutal, intraitable. Et il en est de tous les singes comme de l'orang-
+outang. Dans tous, l'intelligence decroit a mesure que les forces
 s'accroissent. L'animal qui a le plus d'intelligence, n'a toute cette
 intelligence que dans le jeune age._" Further, p. 87: "_Les singes de tous
 les genres offrent ce rapport inverse de l'age et de l'intelligence.
-Ainsi, par exemple, l'Entelle (espece de guenon du sous-genre des
-Semno-pitheques et l'un des singes veneres dans la religion des Brames) a,
-dans le __ jeune age, le front large, le museau peu saillant, le crane
-eleve, arrondi, etc. Avec l'age le front disparait, recule, le museau
-proemine; et le moral ne change pas moins que le physique: l'apathie, la
-violence, le besoin de solitude, remplacent la penetration, la docilite,
-la confiance. __{~SINGLE LEFT-POINTING ANGLE QUOTATION MARK~} __Ces differences sont si grandes,__ {~SINGLE RIGHT-POINTING ANGLE QUOTATION MARK~}__ dit Mr. Fred.
+Ainsi, par exemple, l'Entelle (espece de guenon du sous-genre des Semno-
+pitheques et l'un des singes veneres dans la religion des Brames) a, dans
+le __ jeune age, le front large, le museau peu saillant, le crane eleve,
+arrondi, etc. Avec l'age le front disparait, recule, le museau proemine;
+et le moral ne change pas moins que le physique: l'apathie, la violence,
+le besoin de solitude, remplacent la penetration, la docilite, la
+confiance. __{~SINGLE LEFT-POINTING ANGLE QUOTATION MARK~} __Ces differences sont si grandes,__ {~SINGLE RIGHT-POINTING ANGLE QUOTATION MARK~}__ dit Mr. Fred.
 Cuvier, __{~SINGLE LEFT-POINTING ANGLE QUOTATION MARK~} __que dans l'habitude ou nous sommes de juger des actions des
 animaux par les notres, nous prendrions le jeune animal pour un individu
 de l'age, ou toutes les qualites morales de l'espece sont acquises, et
@@ -4992,11 +4993,11 @@ regards me as insane. Whoever comes at last, through constantly recounting
 an event which originally was fabricated by him, to believe in it himself
 is, in this one point, really insane. We may ascribe to an insane person
 flashes of wit, single clever thoughts, even correct judgments, but his
-testimony as to past events no man will consider valid. In the
-Lalita-vistara, well known to be the history of Buddha Sakya-Muni, it is
-related that at the moment of his birth all the sick became well, all the
-blind saw, all the deaf heard, and all mad people "recovered their
-memory." This last is mentioned in two passages.(15)
+testimony as to past events no man will consider valid. In the Lalita-
+vistara, well known to be the history of Buddha Sakya-Muni, it is related
+that at the moment of his birth all the sick became well, all the blind
+saw, all the deaf heard, and all mad people "recovered their memory." This
+last is mentioned in two passages.(15)
 
 My own experience of many years has led me to the opinion that madness
 occurs proportionally most frequently among actors. But what a misuse they
@@ -5104,7 +5105,7 @@ contrary, the man in a frenzy apprehends objects, for he breaks out upon
 them; thus he has also consciousness of his present action, and afterwards
 remembrance of it. But he is entirely without reflection, thus without any
 guidance of the reason, consequently quite incapable of any consideration
-or regard for the absent, the past, or the future. When the attack is
+or regard for the present, the past, or the future. When the attack is
 over, and the reason has regained its command, its function is correct,
 because here its proper activity has not been perverted or destroyed, but
 only the will has found the means to withdraw itself from it entirely for
@@ -5408,15 +5409,15 @@ over into each other. In the vault itself every stone is at once burden
 and support, and even the pillars, especially in groined vaulting, are, at
 least apparently, held in position by the pressure of opposite arches; and
 also just on account of this lateral pressure not only vaults but even
-mere arches ought not to rest upon columns, but require the massive
-four-cornered pillars. In the row of columns alone is the separation
-complete, for here the entablature appears as pure burden, the column as
-pure support. Accordingly the relation of the colonnade to the plain wall
-may be compared to that which would exist between a scale ascending in
-regular intervals and a tone ascending little by little from the same
-depth to the same height without gradation, which would produce a mere
-howl. For in the one as in the other the material is the same, and the
-important difference proceeds entirely from the _pure separation_.
+mere arches ought not to rest upon columns, but require the massive four-
+cornered pillars. In the row of columns alone is the separation complete,
+for here the entablature appears as pure burden, the column as pure
+support. Accordingly the relation of the colonnade to the plain wall may
+be compared to that which would exist between a scale ascending in regular
+intervals and a tone ascending little by little from the same depth to the
+same height without gradation, which would produce a mere howl. For in the
+one as in the other the material is the same, and the important difference
+proceeds entirely from the _pure separation_.
 
 Moreover, the support is not adapted to the burden when it is only
 sufficient to bear it, but when it can do this so conveniently and amply
@@ -5447,8 +5448,8 @@ disturbs the former, of which the theme is always only support and burden.
 The form of the column has its sole ground in the fact that it affords the
 simplest and most suitable support. In the twisted column
 inappropriateness appears as if with intentional perversity, and therefore
-shamelessness: hence good taste condemns it at the first glance. The
-four-cornered pillar, since the diagonal exceeds the sides, has unequal
+shamelessness: hence good taste condemns it at the first glance. The four-
+cornered pillar, since the diagonal exceeds the sides, has unequal
 dimensions of thickness which have no end as their motive, but are
 occasioned by the accident of greater feasibleness; and just on this
 account it pleases us so very much less than the column. Even the
@@ -6108,12 +6109,12 @@ remember, in my early childhood, that I had delighted myself for a long
 time with the agreeable sound of verse before I made the discovery that it
 all also contained meaning and thoughts. Accordingly there is also, in all
 languages, a mere doggerel poetry almost entirely devoid of meaning.
-Davis, the Sinologist, in the preface to his translation of the
-"_Laou-sang-urh_," or "_An Heir in Old Age_" (_London, 1817_), observes
-that the Chinese dramas partly consist of verses which are sung, and adds:
-"The meaning of them is often obscure, and, according to the statements of
-the Chinese themselves, the end of these verses is especially to flatter
-the ear, and the sense is neglected, and even entirely sacrificed to the
+Davis, the Sinologist, in the preface to his translation of the "_Laou-
+sang-urh_," or "_An Heir in Old Age_" (_London, 1817_), observes that the
+Chinese dramas partly consist of verses which are sung, and adds: "The
+meaning of them is often obscure, and, according to the statements of the
+Chinese themselves, the end of these verses is especially to flatter the
+ear, and the sense is neglected, and even entirely sacrificed to the
 harmony." Who is not reminded here of the choruses of many Greek tragedies
 which are often so hard to make out?
 
@@ -7464,9 +7465,9 @@ fainted, for in this the transition is not so gradual, nor accompanied by
 dreams, but first the power of sight leaves us, still fully conscious, and
 then immediately the most profound unconsciousness enters; the sensation
 that accompanies it, so far as it goes, is anything but disagreeable; and
-without doubt, as sleep is the brother of death, so the swoon is its
-twin-brother. Even violent death cannot be painful, for even severe wounds
-are not felt at all till some time afterwards, often not till the outward
+without doubt, as sleep is the brother of death, so the swoon is its twin-
+brother. Even violent death cannot be painful, for even severe wounds are
+not felt at all till some time afterwards, often not till the outward
 signs of them are observed. If they are rapidly mortal, consciousness will
 vanish before this discovery; if they result in death later, then it is
 the same as with other illnesses. All those also who have lost
@@ -8556,10 +8557,10 @@ The act of procreation presents itself to us in a twofold manner: first,
 for self-consciousness, whose only object, as I have often shown, is the
 will, with all its affections; and then for the consciousness of other
 things, _i.e._, the world of idea, or the empirical reality of things.
-Now, from the side of the will, thus inwardly, subjectively, for
-self-consciousness, that act presents itself as the most immediate and
-complete satisfaction of the will, _i.e._, as sensual pleasure. From the
-side of the idea, on the other hand, thus externally, objectively, for the
+Now, from the side of the will, thus inwardly, subjectively, for self-
+consciousness, that act presents itself as the most immediate and complete
+satisfaction of the will, _i.e._, as sensual pleasure. From the side of
+the idea, on the other hand, thus externally, objectively, for the
 consciousness of other things, this act is just the woof of the most
 cunning of webs, the foundation of the inexpressibly complicated animal
 organism, which then only requires to be developed to become visible to
@@ -8568,28 +8569,28 @@ perfection is only known to him who has studied anatomy, cannot, from the
 side of the idea, be otherwise conceived and thought of than as a system
 devised with the most ingenious forethought and carried out with the most
 consummate skill and exactness, as the most arduous work of profound
-reflection. But from the side of the will we know, through
-self-consciousness, the production of this organism as the work of an act
-which is exactly the opposite of all reflection, an impetuous, blind
-impulse, an exceedingly pleasurable sensation. This opposition is closely
-related to the infinite contrast, which is shown above, between the
-absolute facility with which nature produces its works, together with the
-correspondingly boundless carelessness with which it abandons them to
-destruction, and the incalculably ingenious and studied construction of
-these very works, judging from which they must have been infinitely
-difficult to make, and their maintenance should have been provided for
-with all conceivable care; while we have the opposite before our eyes. If
-now by this certainly very unusual consideration, we have brought together
-in the boldest manner the two heterogeneous sides of the world, and, as it
-were, grasped them with one hand, we must now hold them fast in order to
-convince ourselves of the entire invalidity of the laws of the phenomenon,
-or the world as idea, for that of will, or the thing in itself. Then it
-will become more comprehensible to us that while on the side of the idea,
-that is, in the phenomenal world, there exhibits itself to us now an
-arising out of nothing, and now an entire annihilation of what has arisen,
-from that other side, or in itself, a nature lies before us with reference
-to which the conceptions of arising and passing away have no significance.
-For, by going back to the root, where, by means of self-consciousness, the
+reflection. But from the side of the will we know, through self-
+consciousness, the production of this organism as the work of an act which
+is exactly the opposite of all reflection, an impetuous, blind impulse, an
+exceedingly pleasurable sensation. This opposition is closely related to
+the infinite contrast, which is shown above, between the absolute facility
+with which nature produces its works, together with the correspondingly
+boundless carelessness with which it abandons them to destruction, and the
+incalculably ingenious and studied construction of these very works,
+judging from which they must have been infinitely difficult to make, and
+their maintenance should have been provided for with all conceivable care;
+while we have the opposite before our eyes. If now by this certainly very
+unusual consideration, we have brought together in the boldest manner the
+two heterogeneous sides of the world, and, as it were, grasped them with
+one hand, we must now hold them fast in order to convince ourselves of the
+entire invalidity of the laws of the phenomenon, or the world as idea, for
+that of will, or the thing in itself. Then it will become more
+comprehensible to us that while on the side of the idea, that is, in the
+phenomenal world, there exhibits itself to us now an arising out of
+nothing, and now an entire annihilation of what has arisen, from that
+other side, or in itself, a nature lies before us with reference to which
+the conceptions of arising and passing away have no significance. For, by
+going back to the root, where, by means of self-consciousness, the
 phenomenon and the thing in itself meet, we have just, as it were,
 palpably apprehended that the two are absolutely incommensurable, and the
 whole manner of being of the one, together with all the fundamental laws
@@ -9335,16 +9336,16 @@ different character, and a moral agreement with her will very seldom
 occur, indeed only through the exceptional accident of a similarity of the
 character of the two parents. Let him make this examination, for example,
 with reference to quick temper or patience, avarice or prodigality,
-inclination to sensuality, or to intemperance, or to gambling,
-hard-heartedness or kindliness, honesty or hypocrisy, pride or
-condescension, courage or cowardice, peaceableness or quarrelsomeness,
-placability or resentfulness, &c. Then let him make the same investigation
-with regard to all those whose characters and whose parents he has
-accurately known. If he proceeds attentively, with correct judgment, and
-candidly, the confirmation of our principle will not be lacking. Thus, for
-example, he will find the special tendency to lie, which belongs to many
-men, equally present in two brothers, because they have inherited it from
-the father; on this account also the comedy, "The Liar and his Son," is
+inclination to sensuality, or to intemperance, or to gambling, hard-
+heartedness or kindliness, honesty or hypocrisy, pride or condescension,
+courage or cowardice, peaceableness or quarrelsomeness, placability or
+resentfulness, &c. Then let him make the same investigation with regard to
+all those whose characters and whose parents he has accurately known. If
+he proceeds attentively, with correct judgment, and candidly, the
+confirmation of our principle will not be lacking. Thus, for example, he
+will find the special tendency to lie, which belongs to many men, equally
+present in two brothers, because they have inherited it from the father;
+on this account also the comedy, "The Liar and his Son," is
 psychologically correct. However, two inevitable limitations must here be
 borne in mind, which only open injustice could interpret as evasions.
 First, _pater semper incertus_. Only a decided physical resemblance to the
@@ -9594,14 +9595,14 @@ his mother some mental gifts, and from his father an agreement with his
 moral character." Walter Scott's mother was a poetess, and was in
 communication with the wits of her time, as we learn from the obituary
 notice of Walter Scott in the _Globe_ of 24th September 1832. That poems
-of hers appeared in print in 1789 I find from an article entitled
-"Mother-wit," in the _Blaetter fuer litterarische Unterhaltung_ of 4th
-October 1841, published by Brockhaus, which gives a long list of clever
-mothers of distinguished men, from which I shall only take two: "Bacon's
-mother was a distinguished linguist, wrote and translated several works,
-and in all of them showed learning, acuteness, and taste. Boerhave's
-mother distinguished herself through medical knowledge." On the other
-hand, Haller has preserved for us a strong proof of the inheritance of the
+of hers appeared in print in 1789 I find from an article entitled "Mother-
+wit," in the _Blaetter fuer litterarische Unterhaltung_ of 4th October 1841,
+published by Brockhaus, which gives a long list of clever mothers of
+distinguished men, from which I shall only take two: "Bacon's mother was a
+distinguished linguist, wrote and translated several works, and in all of
+them showed learning, acuteness, and taste. Boerhave's mother
+distinguished herself through medical knowledge." On the other hand,
+Haller has preserved for us a strong proof of the inheritance of the
 mental weakness of the mother, for he says: "_E duabus patriciis
 sororibus, ob divitias maritos nactis, quum tamen fatuis essent proximae,
 novimus in nobilissimas gentes nunc a seculo retro ejus morbi manasse
@@ -10425,8 +10426,8 @@ alkali, to a neutral salt. The essential conditions demanded for this are
 the following. First: all sex is one-sided. This one-sidedness is more
 distinctly expressed in one individual than in another; therefore in every
 individual it can be better supplemented and neutralised by one than by
-another individual of the opposite sex, for each one requires a
-one-sidedness which is the opposite of his own to complete the type of
+another individual of the opposite sex, for each one requires a one-
+sidedness which is the opposite of his own to complete the type of
 humanity in the new individual that is to be produced, the constitution of
 which is always the goal towards which all tends. Physiologists know that
 manhood and womanhood admit of innumerable degrees, through which the
@@ -10437,11 +10438,11 @@ exact mean between the two sexes, can be attributed to neither, and
 consequently are unfit to propagate the species. Accordingly, the
 neutralisation of two individualities by each other, of which we are
 speaking, demands that the definite degree of _his_ manhood shall exactly
-correspond to the definite degree of _her_ womanhood; so that the
-one-sidedness of each exactly annuls that of the other. Accordingly, the
-most manly man will seek the most womanly woman, and _vice versa_, and in
-the same way every individual will seek another corresponding to him or
-her in degree of sex. Now how far the required relation exists between two
+correspond to the definite degree of _her_ womanhood; so that the one-
+sidedness of each exactly annuls that of the other. Accordingly, the most
+manly man will seek the most womanly woman, and _vice versa_, and in the
+same way every individual will seek another corresponding to him or her in
+degree of sex. Now how far the required relation exists between two
 individuals is instinctively felt by them, and, together with the other
 relative considerations, lies at the foundation of the higher degrees of
 love. While, therefore, the lovers speak pathetically of the harmony of
@@ -11025,15 +11026,15 @@ following chapter.(39)
 Chapter XLV.(40) On The Assertion Of The Will To Live.
 
 
-If the will to live exhibited itself merely as an impulse to
-self-preservation, this would only be an assertion of the individual
-phenomenon for the span of time of its natural duration. The cares and
-troubles of such a life would not be great, and consequently existence
-would be easy and serene. Since, on the contrary, the will wills life
-absolutely and for all time, it exhibits itself also as sexual impulse,
-which has in view an endless series of generations. This impulse does away
-with that carelessness, serenity, and innocence which would accompany a
-merely individual existence, for it brings unrest and melancholy into the
+If the will to live exhibited itself merely as an impulse to self-
+preservation, this would only be an assertion of the individual phenomenon
+for the span of time of its natural duration. The cares and troubles of
+such a life would not be great, and consequently existence would be easy
+and serene. Since, on the contrary, the will wills life absolutely and for
+all time, it exhibits itself also as sexual impulse, which has in view an
+endless series of generations. This impulse does away with that
+carelessness, serenity, and innocence which would accompany a merely
+individual existence, for it brings unrest and melancholy into the
 consciousness; misfortunes, cares, and misery into the course of life. If,
 on the other hand, it is voluntarily suppressed, as we see in rare
 exceptions, then this is the turning of the will, which changes its
@@ -11074,12 +11075,12 @@ in spite of all the miseries of life holds us firmly to it, is really
 illusory; but just as illusory is the impulse which has enticed us into
 it. This enticement itself may be seen objectively in the reciprocal
 longing glances of two lovers; they are the purest expression of the will
-to live, in its assertion. How soft and tender it is here! It wills
-well-being, and quiet pleasure, and mild joys for itself, for others, for
-all. It is the theme of Anacreon. Thus by allurements and flattery it
-makes its way into life. But when once it is there, misery introduces
-crime, and crime misery; horror and desolation fill the scene. It is the
-theme of AEschylus.
+to live, in its assertion. How soft and tender it is here! It wills well-
+being, and quiet pleasure, and mild joys for itself, for others, for all.
+It is the theme of Anacreon. Thus by allurements and flattery it makes its
+way into life. But when once it is there, misery introduces crime, and
+crime misery; horror and desolation fill the scene. It is the theme of
+AEschylus.
 
 But now the act through which the will asserts itself and man arises is
 one of which all are, in their inmost being, ashamed, which they therefore
@@ -11423,12 +11424,12 @@ of the law, that regardlessness of his like, peculiar to man, shows itself
 at once; a regardlessness which springs from his boundless egoism, and
 sometimes also from wickedness. How man deals with man is shown, for
 example, by negro slavery, the final end of which is sugar and coffee. But
-we do not need to go so far: at the age of five years to enter a
-cotton-spinning or other factory, and from that time forth to sit there
-daily, first ten, then twelve, and ultimately fourteen hours, performing
-the same mechanical labour, is to purchase dearly the satisfaction of
-drawing breath. But this is the fate of millions, and that of millions
-more is analogous to it.
+we do not need to go so far: at the age of five years to enter a cotton-
+spinning or other factory, and from that time forth to sit there daily,
+first ten, then twelve, and ultimately fourteen hours, performing the same
+mechanical labour, is to purchase dearly the satisfaction of drawing
+breath. But this is the fate of millions, and that of millions more is
+analogous to it.
 
 We others, however, can be made perfectly miserable by trifling
 misfortunes; perfectly happy, not by the world. Whatever one may say, the
@@ -11512,10 +11513,10 @@ debt contracted? At the begetting.
 
 Accordingly, if we regard man as a being whose existence is a punishment
 and an expiation, we then view him in a right light. The myth of the fall
-(although probably, like the whole of Judaism, borrowed from the
-Zend-Avesta: Bundahish, 15), is the only point in the Old Testament to
-which I can ascribe metaphysical, although only allegorical, truth; indeed
-it is this alone that reconciles me to the Old Testament. Our existence
+(although probably, like the whole of Judaism, borrowed from the Zend-
+Avesta: Bundahish, 15), is the only point in the Old Testament to which I
+can ascribe metaphysical, although only allegorical, truth; indeed it is
+this alone that reconciles me to the Old Testament. Our existence
 resembles nothing so much as the consequence of a false step and a guilty
 desire. New Testament Christianity, the ethical spirit of which is that of
 Brahmanism and Buddhism, and is therefore very foreign to the otherwise
@@ -11539,15 +11540,15 @@ hell; but whoever is inclined to deny this can easily experience it.
 
 And to this world, to this scene of tormented and agonised beings, who
 only continue to exist by devouring each other, in which, therefore, every
-ravenous beast is the living grave of thousands of others, and its
-self-maintenance is a chain of painful deaths; and in which the capacity
-for feeling pain increases with knowledge, and therefore reaches its
-highest degree in man, a degree which is the higher the more intelligent
-the man is; to this world it has been sought to apply the system of
-optimism, and demonstrate to us that it is the best of all possible
-worlds. The absurdity is glaring. But an optimist bids me open my eyes and
-look at the world, how beautiful it is in the sunshine, with its mountains
-and valleys, streams, plants, animals, &c. &c. Is the world, then, a
+ravenous beast is the living grave of thousands of others, and its self-
+maintenance is a chain of painful deaths; and in which the capacity for
+feeling pain increases with knowledge, and therefore reaches its highest
+degree in man, a degree which is the higher the more intelligent the man
+is; to this world it has been sought to apply the system of optimism, and
+demonstrate to us that it is the best of all possible worlds. The
+absurdity is glaring. But an optimist bids me open my eyes and look at the
+world, how beautiful it is in the sunshine, with its mountains and
+valleys, streams, plants, animals, &c. &c. Is the world, then, a
 rareeshow? These things are certainly beautiful to _look at_, but to _be_
 them is something quite different. Then comes a teleologist, and praises
 to me the wise arrangement by virtue of which it is taken care that the
@@ -11577,14 +11578,14 @@ different kind from mine, the miserable nature of this world and the
 untenableness of all optimism; in doing which he attacks this in its
 origin. Both works of Hume's are as well worth reading as they are unknown
 at the present day in Germany, where, on the other hand, incredible
-pleasure is found, patriotically, in the most disgusting nonsense of
-home-bred boastful mediocrities, who are proclaimed great men. Hamann,
-however, translated these dialogues; Kant went through the translation,
-and late in life wished to induce Hamann's son to publish them because the
-translation of Platner did not satisfy him (see Kant's biography by F. W.
-Schubert, pp. 81 and 165). From every page of David Hume there is more to
-be learned than from the collected philosophical works of Hegel, Herbart,
-and Schleiermacher together.
+pleasure is found, patriotically, in the most disgusting nonsense of home-
+bred boastful mediocrities, who are proclaimed great men. Hamann, however,
+translated these dialogues; Kant went through the translation, and late in
+life wished to induce Hamann's son to publish them because the translation
+of Platner did not satisfy him (see Kant's biography by F. W. Schubert,
+pp. 81 and 165). From every page of David Hume there is more to be learned
+than from the collected philosophical works of Hegel, Herbart, and
+Schleiermacher together.
 
 The founder of systematic optimism, again, is Leibnitz whose philosophical
 merit I have no intention of denying although I have never succeeded in
@@ -12140,15 +12141,15 @@ the State, this may easily endanger the true end.
 According to my explanation, the right of property arises only through the
 expenditure of labour upon things. This truth, which has already often
 been expressed, finds a noteworthy confirmation in the fact that it is
-asserted, even in a practical regard, in a declaration of the American
-ex-president, Quincey Adams, which is to be found in the _Quarterly
-Review_ of 1840, No. 130; and also in French, in the "_Bibliotheque
-universelle de Geneve_," July 1840, No. 55. I will give it here in German
-(English of _Quarterly Review_): "There are moralists who have questioned
-the right of the Europeans to intrude upon the possessions of the
-aboriginals in any case, and under any limitations whatsoever; but have
-they maturely considered the whole subject? The Indian right of possession
-itself stands, with regard to the greatest part of the country, upon a
+asserted, even in a practical regard, in a declaration of the American ex-
+president, Quincey Adams, which is to be found in the _Quarterly Review_
+of 1840, No. 130; and also in French, in the "_Bibliotheque universelle de
+Geneve_," July 1840, No. 55. I will give it here in German (English of
+_Quarterly Review_): "There are moralists who have questioned the right of
+the Europeans to intrude upon the possessions of the aboriginals in any
+case, and under any limitations whatsoever; but have they maturely
+considered the whole subject? The Indian right of possession itself
+stands, with regard to the greatest part of the country, upon a
 _questionable_ foundation. Their cultivated fields, their constructed
 habitations, a space of ample sufficiency for their subsistence, and
 whatever they had annexed of themselves by personal labour, was
@@ -12303,25 +12304,25 @@ for each individual is the whole will to live. Therefore, even if this
 individual is only an insect or a worm, nature itself speaks out of it
 thus: "I alone am all in all: in my maintenance everything is involved;
 the rest may perish, it is really nothing." So speaks nature from the
-_particular_ standpoint, thus from the point of view of
-self-consciousness, and upon this depends the egoism of every living
-thing. On the other hand, from the _universal_ point of view,--which is
-that of the _consciousness of other things_, that of objective knowledge,
-which for the moment looks away from the individual with whom the
-knowledge is connected,--from without then, from the periphery nature
-speaks thus: "The individual is nothing, and less than nothing. I destroy
-millions of individuals every day, for sport and pastime: I abandon their
-fate to the most capricious and wilful of my children, chance, who
-harasses them at pleasure. I produce millions of new individuals every
-day, without any diminution of my productive power; just as little as the
-power of a mirror is exhausted by the number of reflections of the sun,
-which it casts on the wall one after another. The individual is nothing."
-Only he who knows how to really reconcile and eliminate this patent
-contradiction of nature has a true answer to the question as to the
-perishableness and imperishableness of his own self. I believe I have
-given, in the first four chapters of this fourth book of the supplements,
-an adequate introduction to such knowledge. What is said above may further
-be illustrated in the following manner. Every individual, when he looks
+_particular_ standpoint, thus from the point of view of self-
+consciousness, and upon this depends the egoism of every living thing. On
+the other hand, from the _universal_ point of view,--which is that of the
+_consciousness of other things_, that of objective knowledge, which for
+the moment looks away from the individual with whom the knowledge is
+connected,--from without then, from the periphery nature speaks thus: "The
+individual is nothing, and less than nothing. I destroy millions of
+individuals every day, for sport and pastime: I abandon their fate to the
+most capricious and wilful of my children, chance, who harasses them at
+pleasure. I produce millions of new individuals every day, without any
+diminution of my productive power; just as little as the power of a mirror
+is exhausted by the number of reflections of the sun, which it casts on
+the wall one after another. The individual is nothing." Only he who knows
+how to really reconcile and eliminate this patent contradiction of nature
+has a true answer to the question as to the perishableness and
+imperishableness of his own self. I believe I have given, in the first
+four chapters of this fourth book of the supplements, an adequate
+introduction to such knowledge. What is said above may further be
+illustrated in the following manner. Every individual, when he looks
 within, recognises in his nature, which is his will, the thing in itself,
 therefore that which everywhere alone is real. Accordingly he conceives
 himself as the kernel and centre of the world, and regards himself as of
@@ -12519,51 +12520,51 @@ no longer firmly held in that illusion, but the disillusion already begins
 to take place; so that one might metaphorically say it already flaps its
 wings to fly away from it. Conversely, injustice, wickedness, cruelty are
 signs of the opposite, thus of the deep entanglement in that illusion.
-Secondly, however, these virtues are a means of advancing
-self-renunciation, and accordingly the denial of the will to live. For
-true integrity, inviolable justice, this first and most important of
-cardinal virtues, is so hard a task that whoever professes it
-unconditionally and from the bottom of his heart has to make sacrifices
-that soon deprive life of the sweetness which is demanded to make it
-enjoyable, and thereby turn away the will from it, thus lead to
-resignation. Yet just what makes integrity honourable is the sacrifices
-which it costs; in trifles it is not admired. Its nature really consists
-in this, that the just man does not throw upon others, by craft or force,
-the burdens and sorrows which life brings with it, as the unjust man does,
-but bears himself what falls to his lot; and thus he has to bear the full
-burden of the evil imposed upon human life, undiminished. Justice thereby
-becomes a means of advancing the denial of the will to live, for want and
-suffering, those true conditions of human life, are its consequence, and
-these lead to resignation. Still more quickly does the virtue of
-benevolence, _caritas_, which goes further, lead to the same result; for
-on account of it one takes over even the sufferings which originally fell
-to the lot of others, therefore appropriates to oneself a larger share of
-these than in the course of things would come to the particular
-individual. He who is inspired with this virtue has recognised his own
-being in all others. And thereby he identifies his own lot with that of
-humanity in general; but this is a hard lot, that of care, suffering, and
-death. Whoever, then, by renouncing every accidental advantage, desires
-for himself no other lot than that of humanity in general cannot desire
-even this long. The clinging to life and its pleasures must now soon
-yield, and give place to a universal renunciation; consequently the denial
-of the will will take place. Since now, in accordance with this, poverty,
-privation, and special sufferings of many kinds are introduced simply by
-the perfect exercise of the moral virtues, asceticism in the narrowest
-sense, thus the surrender of all possessions, the intentional seeking out
-of what is disagreeable and repulsive, self-mortification, fasts, the hair
-shirt, and the scourge--all this is rejected by many, and perhaps rightly,
-as superfluous. Justice itself is the hair shirt that constantly harasses
-its owner and the charity that gives away what is needed, provides
-constant fasts.(45) Just on this account Buddhism is free from all strict
-and excessive asceticism, which plays a large part in Brahmanism, thus
-from intentional self-mortification. It rests satisfied with the celibacy,
-voluntary poverty, humility, and obedience of the monks, with abstention
-from animal food, as also from all worldliness. Since, further, the goal
-to which the moral virtues lead is that which is here pointed out, the
-Vedanta philosophy(46) rightly says that after the entrance of true
-knowledge, with entire resignation in its train, thus the new birth, then
-the morality or immorality of the past life is a matter of indifference,
-and uses here also the saying so often quoted by the Brahmans: "_Finditur
+Secondly, however, these virtues are a means of advancing self-
+renunciation, and accordingly the denial of the will to live. For true
+integrity, inviolable justice, this first and most important of cardinal
+virtues, is so hard a task that whoever professes it unconditionally and
+from the bottom of his heart has to make sacrifices that soon deprive life
+of the sweetness which is demanded to make it enjoyable, and thereby turn
+away the will from it, thus lead to resignation. Yet just what makes
+integrity honourable is the sacrifices which it costs; in trifles it is
+not admired. Its nature really consists in this, that the just man does
+not throw upon others, by craft or force, the burdens and sorrows which
+life brings with it, as the unjust man does, but bears himself what falls
+to his lot; and thus he has to bear the full burden of the evil imposed
+upon human life, undiminished. Justice thereby becomes a means of
+advancing the denial of the will to live, for want and suffering, those
+true conditions of human life, are its consequence, and these lead to
+resignation. Still more quickly does the virtue of benevolence, _caritas_,
+which goes further, lead to the same result; for on account of it one
+takes over even the sufferings which originally fell to the lot of others,
+therefore appropriates to oneself a larger share of these than in the
+course of things would come to the particular individual. He who is
+inspired with this virtue has recognised his own being in all others. And
+thereby he identifies his own lot with that of humanity in general; but
+this is a hard lot, that of care, suffering, and death. Whoever, then, by
+renouncing every accidental advantage, desires for himself no other lot
+than that of humanity in general cannot desire even this long. The
+clinging to life and its pleasures must now soon yield, and give place to
+a universal renunciation; consequently the denial of the will will take
+place. Since now, in accordance with this, poverty, privation, and special
+sufferings of many kinds are introduced simply by the perfect exercise of
+the moral virtues, asceticism in the narrowest sense, thus the surrender
+of all possessions, the intentional seeking out of what is disagreeable
+and repulsive, self-mortification, fasts, the hair shirt, and the
+scourge--all this is rejected by many, and perhaps rightly, as superfluous.
+Justice itself is the hair shirt that constantly harasses its owner and
+the charity that gives away what is needed, provides constant fasts.(45)
+Just on this account Buddhism is free from all strict and excessive
+asceticism, which plays a large part in Brahmanism, thus from intentional
+self-mortification. It rests satisfied with the celibacy, voluntary
+poverty, humility, and obedience of the monks, with abstention from animal
+food, as also from all worldliness. Since, further, the goal to which the
+moral virtues lead is that which is here pointed out, the Vedanta
+philosophy(46) rightly says that after the entrance of true knowledge,
+with entire resignation in its train, thus the new birth, then the
+morality or immorality of the past life is a matter of indifference, and
+uses here also the saying so often quoted by the Brahmans: "_Finditur
 nodus cordis, dissolvuntur omnes dubitationes, ejusque opera evanescunt,
 viso supremo illo_" (_Sancara, sloca 32_).
 
@@ -12594,18 +12595,18 @@ a better knowledge, is, on the other hand, salvation. Between these two,
 then, lies the sphere of morality; it accompanies man as a light upon his
 path from the assertion to the denial of the will, or, mythically, from
 original sin to salvation through faith in the mediation of the incarnate
-God (Avatar); or, according to the teaching of the Vedas, through all
-re-births, which are the consequence of the works in each case, until
-right knowledge appears, and with it salvation (final emancipation),
-Mokscha, _i.e._, reunion with Brahma. The Buddhists, however, with perfect
-honesty, only indicate the matter negatively, by Nirvana, which is the
-negation of this world, or of Sansara. If Nirvana is defined as nothing,
-this only means that the Sansara contains no single element which could
-assist the definition or construction of Nirvana. Just on this account the
-Jainas, who differ from the Buddhists only in name, call the Brahmans who
-believe in the Vedas Sabdapramans, a nickname which is meant to signify
-that they believe upon hearsay what cannot be known or proved ("Asiat.
-Researches," vol. vi. P. 474).
+God (Avatar); or, according to the teaching of the Vedas, through all re-
+births, which are the consequence of the works in each case, until right
+knowledge appears, and with it salvation (final emancipation), Mokscha,
+_i.e._, reunion with Brahma. The Buddhists, however, with perfect honesty,
+only indicate the matter negatively, by Nirvana, which is the negation of
+this world, or of Sansara. If Nirvana is defined as nothing, this only
+means that the Sansara contains no single element which could assist the
+definition or construction of Nirvana. Just on this account the Jainas,
+who differ from the Buddhists only in name, call the Brahmans who believe
+in the Vedas Sabdapramans, a nickname which is meant to signify that they
+believe upon hearsay what cannot be known or proved ("Asiat. Researches,"
+vol. vi. P. 474).
 
 When certain ancient philosophers, such as Orpheus, the Pythagoreans, and
 Plato (_e.g._, in the "Phaedo," pp. 151, 183 _seq._, Bip.; and see _Clem.
@@ -12808,9 +12809,9 @@ Eckhard teach the same; only that the former dared to express his thoughts
 directly, while the latter is obliged to clothe them in the garments of
 the Christian myth and adapt his expressions to this. He carries this,
 however, so far that with him the Christian myth has become little more
-than a symbolical language, just as the Hellenic myth became for the
-Neo-Platonists: he takes it throughout allegorically. In the same respect
-it is worth noticing that the transition of St. Francis from prosperity to
+than a symbolical language, just as the Hellenic myth became for the Neo-
+Platonists: he takes it throughout allegorically. In the same respect it
+is worth noticing that the transition of St. Francis from prosperity to
 the mendicant life is similar to the still greater step of Buddha Sakya
 Muni from prince to beggar, and that, corresponding to this, the life of
 St. Francis, and also the order he founded, was just a kind of
@@ -13186,8 +13187,8 @@ Christianity, because this religion arose in Judaea. But on account of the
 cosmopolitan character of Christianity he laid aside his own name to be
 denoted in the language of each converted nation by the appellation of the
 superhuman beings he supplanted, as, {~GREEK CAPITAL LETTER DELTA~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER FINAL SIGMA~}, _Deus_, which comes from the
-Sanscrit _Deva_ (from which also devil comes), or among the
-Gothico-Germanic peoples by the word God, _Gott_, which comes from _Odin_,
+Sanscrit _Deva_ (from which also devil comes), or among the Gothico-
+Germanic peoples by the word God, _Gott_, which comes from _Odin_,
 _Wodan_, _Guodan_, _Godan_. In the same way he assumed in Islamism, which
 also sprang from Judaism, the name of Allah, which also existed earlier in
 Arabia. Analogous to this, the gods of the Greek Olympus, when in
@@ -13278,11 +13279,11 @@ link themselves on of themselves. There are no families, and therefore
 there is no private property, but community of goods. All are clothed
 alike, in Quaker fashion, and with great neatness. They are industrious
 and diligent: idleness is not endured. They have also the enviable rule
-that they are to avoid all unnecessary noise, such as shouting,
-door-slamming, whip-cracking, loud knocking, &c. Their rule of life has
-been thus expressed by one of them: "Lead a life of innocence and purity,
-love your neighbours as yourself, live at peace with all men, and refrain
-from war, blood-shed, and all violence against others, as well as from all
+that they are to avoid all unnecessary noise, such as shouting, door-
+slamming, whip-cracking, loud knocking, &c. Their rule of life has been
+thus expressed by one of them: "Lead a life of innocence and purity, love
+your neighbours as yourself, live at peace with all men, and refrain from
+war, blood-shed, and all violence against others, as well as from all
 striving after worldly honour and distinction. Give to each his own, and
 follow after holiness, without which no man can see the Lord. Do good to
 all so far as your opportunity and your power extends." They persuade no
@@ -13669,27 +13670,27 @@ of life: in the moment of death all that is decided for which the whole
 course of life was only the preparation and introduction. Death is the
 result, the _Resume_ of life, or the added up sum which expresses at once
 the instruction which life gave in detail, and bit by bit; this, that the
-whole striving whose manifestation is life was a vain, idle, and
-self-contradictory effort, to have returned from which is a deliverance.
-As the whole, slow vegetation of the plant is related to the fruit, which
-now at a stroke achieves a hundredfold what the plant achieved gradually
-and bit by bit, so life, with its obstacles, deluded hopes, frustrated
-plans, and constant suffering, is related to death, which at one stroke
-destroys all, all that the man has willed, and so crowns the instruction
-which life gave him. The completed course of life upon which the dying man
-looks back has an effect upon the whole will that objectifies itself in
-this perishing individuality, analogous to that which a motive exercises
-upon the conduct of the man. It gives it a new direction, which
-accordingly is the moral and essential result of the life. Just because a
-sudden death makes this retrospect impossible, the Church regards such a
-death as a misfortune, and prays that it should be averted. Since this
-retrospect, like the distinct foreknowledge of death, as conditioned by
-the reason, is possible only in man, not in the brute, and accordingly man
-alone really drinks the cup of death, humanity is the only material in
-which the will can deny itself and entirely turn away from life. To the
-will that does not deny itself every birth imparts a new and different
-intellect,--till it has learned the true nature of life, and in consequence
-of this wills it no more.
+whole striving whose manifestation is life was a vain, idle, and self-
+contradictory effort, to have returned from which is a deliverance. As the
+whole, slow vegetation of the plant is related to the fruit, which now at
+a stroke achieves a hundredfold what the plant achieved gradually and bit
+by bit, so life, with its obstacles, deluded hopes, frustrated plans, and
+constant suffering, is related to death, which at one stroke destroys all,
+all that the man has willed, and so crowns the instruction which life gave
+him. The completed course of life upon which the dying man looks back has
+an effect upon the whole will that objectifies itself in this perishing
+individuality, analogous to that which a motive exercises upon the conduct
+of the man. It gives it a new direction, which accordingly is the moral
+and essential result of the life. Just because a sudden death makes this
+retrospect impossible, the Church regards such a death as a misfortune,
+and prays that it should be averted. Since this retrospect, like the
+distinct foreknowledge of death, as conditioned by the reason, is possible
+only in man, not in the brute, and accordingly man alone really drinks the
+cup of death, humanity is the only material in which the will can deny
+itself and entirely turn away from life. To the will that does not deny
+itself every birth imparts a new and different intellect,--till it has
+learned the true nature of life, and in consequence of this wills it no
+more.
 
 In the natural course, in age the decay of the body coincides with that of
 the will. The desire for pleasures soon vanishes with the capacity to
@@ -13753,16 +13754,16 @@ The prevalent and peculiarly Protestant view that the end of life lies
 solely and immediately in the moral virtues, thus in the practice of
 justice and benevolence, betrays its insufficiency even in the fact that
 so miserably little real and pure morality is found among men. I am not
-speaking at all of lofty virtue, nobleness, magnanimity, and
-self-sacrifice, which one hardly finds anywhere but in plays and novels,
-but only of those virtues which are the duty of every one. Let whoever is
-old think of all those with whom he has had to do; how many persons will
-he have met who were merely really and truly _honest_? Were not by far the
+speaking at all of lofty virtue, nobleness, magnanimity, and self-
+sacrifice, which one hardly finds anywhere but in plays and novels, but
+only of those virtues which are the duty of every one. Let whoever is old
+think of all those with whom he has had to do; how many persons will he
+have met who were merely really and truly _honest_? Were not by far the
 greater number, in spite of their shameless indignation at the slightest
 suspicion of dishonesty or even untruthfulness, in plain words, the
-precise opposite? Were not abject selfishness, boundless avarice,
-well-concealed knavery, and also poisonous envy and fiendish delight in
-the misfortunes of others so universally prevalent that the slightest
+precise opposite? Were not abject selfishness, boundless avarice, well-
+concealed knavery, and also poisonous envy and fiendish delight in the
+misfortunes of others so universally prevalent that the slightest
 exception was met with surprise? And benevolence, how very rarely it
 extends beyond a gift of what is so superfluous that one never misses it.
 And is the whole end of existence to lie in such exceedingly rare and weak
@@ -16820,9 +16821,9 @@ prevent it from succeeding. This fact has already hindered and retarded,
 when indeed it has not choked, many a work that should have been of
 benefit to the world. For me the consequence of this has been, that
 although I was only thirty years old when the first edition of this work
-appeared, I live to see this third edition not earlier than my
-seventy-second year. Yet for this I find comfort in the words of Petrarch:
-_Si quis tota die currens, pervenit ad vesperam satis est_ (_de vera
+appeared, I live to see this third edition not earlier than my seventy-
+second year. Yet for this I find comfort in the words of Petrarch: _Si
+quis tota die currens, pervenit ad vesperam satis est_ (_de vera
 Sapientia_, p. 140). If I also have at last arrived, and have the
 satisfaction at the end of my course of seeing the beginning of my
 influence, it is with the hope that, according to an old rule it will
@@ -16927,7 +16928,7 @@ FOOTNOTES
     1 This chapter is connected with the last half of § 27 of the first
       volume.
 
-_    2 De Augm. Scient._, L. vi. c. 3.
+    2 _De Augm. Scient._, L. vi. c. 3.
 
     3 This chapter is connected with § 23 of the first volume.
 
@@ -17021,7 +17022,7 @@ _    2 De Augm. Scient._, L. vi. c. 3.
    14 This chapter is connected with the second half of § 36 of the first
       volume.
 
-_   15 Rgya Tcher Rol Pa, Hist. de Bouddha Chakya Mouni, trad. du
+   15 _Rgya Tcher Rol Pa, Hist. de Bouddha Chakya Mouni, trad. du
       Tibetain_, p. _Foucaux_, 1848, p. 91 et 99.
 
    16 In German inferiors are sometimes addressed as _Er_ instead of
@@ -17059,7 +17060,7 @@ _   15 Rgya Tcher Rol Pa, Hist. de Bouddha Chakya Mouni, trad. du
 
    27 This chapter is connected with § 54 of the first volume.
 
-_   28 In gladiatoriis pugnis timidos et supplices, et, ut vivere liceat,
+   28 _In gladiatoriis pugnis timidos et supplices, et, ut vivere liceat,
       obsecrantes etiam odisse solemus; fortes et animosos, et se acriter
       ipsos morti offerentes servare cupimus_ (_Cic. pro Milone_, c. 34).
 
@@ -17097,7 +17098,7 @@ _   28 In gladiatoriis pugnis timidos et supplices, et, ut vivere liceat,
    32 Death says: Thou art the product of an act which should not have
       been; therefore to expiate it thou must die.
 
-_   33 Sancara, s. de theologumenis Vedanticorum_, ed. F. H. H.
+   33 _Sancara, s. de theologumenis Vedanticorum_, ed. F. H. H.
       Windischmann, p. 37; "_Oupnekhat_," vol. i. p. 387 _et_ p. 78;
       Colebrooke's "Miscellaneous Essays," vol. i. p. 363.
 
@@ -17179,7 +17180,7 @@ _   33 Sancara, s. de theologumenis Vedanticorum_, ed. F. H. H.
       asked was stated in the spirit of the philosophical ethics
       prevailing in Protestant Europe.
 
-_   46 Cf._ F. H. H. Windischmann's _Sancara, sive de theologumenis
+   46 _Cf._ F. H. H. Windischmann's _Sancara, sive de theologumenis
       Vedanticorum_, pp. 116, 117, 121; and also _Oupnekhat_, vol. i. pp.
       340, 356, 360.
 
@@ -17207,11 +17208,11 @@ _   46 Cf._ F. H. H. Windischmann's _Sancara, sive de theologumenis
       pronouncing the mysterious Oum, in the depths of one's own being,
       where subject and object and all knowledge disappear.
 
-_   49 S. Bonaventurae vita S. Francisci_, ch. 8. K. Hase, "_Franz von
+   49 _S. Bonaventurae vita S. Francisci_, ch. 8. K. Hase, "_Franz von
       Assisi_," ch. 10. "_I cantici di S. Francesco,_" _editi da Schlosser
       e Steinle., Francoforto, s.M._, 1842.
 
-_   50 Michaelis de Molinos manuductio spiritualis; hispanice 1675, italice
+   50 _Michaelis de Molinos manuductio spiritualis; hispanice 1675, italice
       1680, latine 1687, gallice in libro non adeo raro, cui titulus:
       Recueil de diverses pieces concernant le quietisme, ou Molinos et
       ses disciples. Amstd., 1688._
@@ -17234,13 +17235,13 @@ _   50 Michaelis de Molinos manuductio spiritualis; hispanice 1675, italice
       {~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER CHI~}{~GREEK SMALL LETTER EPSILON~}{~GREEK SMALL LETTER IOTA~}{~GREEK SMALL LETTER ALPHA~} {~GREEK SMALL LETTER TAU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER UPSILON~} {~GREEK SMALL LETTER KAPPA~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER SIGMA~}{~GREEK SMALL LETTER MU~}{~GREEK SMALL LETTER OMICRON~}{~GREEK SMALL LETTER NU~} by _elementa Judaica_; while Luther everywhere
       renders the word honestly and correctly by "_Welt_" (world).
 
-_   54 Unusquisque tantum juris habet, quantum potentia valet_ (_Tract.
+   54 _Unusquisque tantum juris habet, quantum potentia valet_ (_Tract.
       pol._, c. 2 § 8). _Fides alicui data tamdiu rata manet, quamdiu
       ejus, qui fidem dedit, non mutatur voluntas_ (_Ibid._, § 12).
       _Uniuscujusque jus potentia ejus definetur_ (_Eth._ iv., _pr._ 37,
-      _schol._ 1.) Especially chap. 16 of the _Tractatus
-      theologico-politicus_ is the true compendium of the immorality of
-      Spinoza's philosophy.
+      _schol._ 1.) Especially chap. 16 of the _Tractatus theologico-
+      politicus_ is the true compendium of the immorality of Spinoza's
+      philosophy.
 
    55 [In preparing this Index Frauenstaedt's _Schopenhauer-Lexikon_ has
       been freely used.--_Trs._]
@@ -17280,21 +17281,21 @@ This and all associated files of various formats will be found in:
 Updated editions will replace the previous one -- the old editions will be
 renamed.
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties. Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works to protect the Project
-Gutenberg{~TRADE MARK SIGN~} concept and trademark. Project Gutenberg is a registered
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given away
--- you may do practically _anything_ with public domain eBooks.
-Redistribution is subject to the trademark license, especially commercial
-redistribution.
+Creating the works from print editions not protected by U.S. copyright law
+means that no one owns a United States copyright in these works, so the
+Foundation (and you!) can copy and distribute it in the United States
+without permission and without paying copyright royalties. Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works to protect
+the Project Gutenberg{~TRADE MARK SIGN~} concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the ebooks,
+unless you receive specific permission. If you do not charge anything for
+copies of this ebook, complying with the rules is very easy. You may use
+this ebook for nearly any purpose such as creation of derivative works,
+reports, performances and research. They may be modified and printed and
+given away -- you may do practically _anything_ in the United States with
+ebooks not protected by U.S. copyright law. Redistribution is subject to
+the trademark license, especially commercial redistribution.
 
 
 
@@ -17352,14 +17353,14 @@ The Project Gutenberg Literary Archive Foundation ("the Foundation" or
 PGLAF), owns a compilation copyright in the collection of Project
 Gutenberg{~TRADE MARK SIGN~} electronic works. Nearly all the individual works in the
 collection are in the public domain in the United States. If an individual
-work is in the public domain in the United States and you are located in
-the United States, we do not claim a right to prevent you from copying,
-distributing, performing, displaying or creating derivative works based on
-the work as long as all references to Project Gutenberg are removed. Of
-course, we hope that you will support the Project Gutenberg{~TRADE MARK SIGN~} mission of
-promoting free access to electronic works by freely sharing Project
-Gutenberg{~TRADE MARK SIGN~} works in compliance with the terms of this agreement for
-keeping the Project Gutenberg{~TRADE MARK SIGN~} name associated with the work. You can
+work is unprotected by copyright law in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative works
+based on the work as long as all references to Project Gutenberg are
+removed. Of course, we hope that you will support the Project Gutenberg{~TRADE MARK SIGN~}
+mission of promoting free access to electronic works by freely sharing
+Project Gutenberg{~TRADE MARK SIGN~} works in compliance with the terms of this agreement
+for keeping the Project Gutenberg{~TRADE MARK SIGN~} name associated with the work. You can
 easily comply with the terms of this agreement by keeping this work in the
 same format with its attached full Project Gutenberg{~TRADE MARK SIGN~} License when you
 share it without charge with others.
@@ -17395,24 +17396,27 @@ is associated) is accessed, displayed, performed, viewed, copied or
 distributed:
 
 
-    This eBook is for the use of anyone anywhere at no cost and with
-    almost no restrictions whatsoever. You may copy it, give it away
-    or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    This ebook is for the use of anyone anywhere in the United States
+    and most other parts of the world at no cost and with almost no
+    restrictions whatsoever. You may copy it, give it away or re-use
+    it under the terms of the Project Gutenberg License included with
+    this ebook or online at http://www.gutenberg.org. If you are not
+    located in the United States, you'll have to check the laws of the
+    country where you are located before using this ebook.
 
 
 1.E.2.
 
 
-If an individual Project Gutenberg{~TRADE MARK SIGN~} electronic work is derived from the
-public domain (does not contain a notice indicating that it is posted with
-permission of the copyright holder), the work can be copied and
-distributed to anyone in the United States without paying any fees or
-charges. If you are redistributing or providing access to a work with the
-phrase "Project Gutenberg" associated with or appearing on the work, you
-must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
-or obtain permission for the use of the work and the Project Gutenberg{~TRADE MARK SIGN~}
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+If an individual Project Gutenberg{~TRADE MARK SIGN~} electronic work is derived from texts
+not protected by U.S. copyright law (does not contain a notice indicating
+that it is posted with permission of the copyright holder), the work can
+be copied and distributed to anyone in the United States without paying
+any fees or charges. If you are redistributing or providing access to a
+work with the phrase "Project Gutenberg" associated with or appearing on
+the work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the Project
+Gutenberg{~TRADE MARK SIGN~} trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
 
 1.E.3.
@@ -17508,9 +17512,9 @@ distributing Project Gutenberg{~TRADE MARK SIGN~} electronic works provided that
 If you wish to charge a fee or distribute a Project Gutenberg{~TRADE MARK SIGN~} electronic
 work or group of works on different terms than are set forth in this
 agreement, you must obtain permission in writing from both the Project
-Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
-Project Gutenberg{~TRADE MARK SIGN~} trademark. Contact the Foundation as set forth in
-Section 3 below.
+Gutenberg Literary Archive Foundation and The Project Gutenberg Trademark
+LLC, the owner of the Project Gutenberg{~TRADE MARK SIGN~} trademark. Contact the Foundation
+as set forth in Section 3 below.
 
 
 1.F.
@@ -17520,14 +17524,14 @@ Section 3 below.
 
 
 Project Gutenberg volunteers and employees expend considerable effort to
-identify, do copyright research on, transcribe and proofread public domain
-works in creating the Project Gutenberg{~TRADE MARK SIGN~} collection. Despite these
-efforts, Project Gutenberg{~TRADE MARK SIGN~} electronic works, and the medium on which they
-may be stored, may contain "Defects," such as, but not limited to,
-incomplete, inaccurate or corrupt data, transcription errors, a copyright
-or other intellectual property infringement, a defective or damaged disk
-or other medium, a computer virus, or computer codes that damage or cannot
-be read by your equipment.
+identify, do copyright research on, transcribe and proofread works not
+protected by U.S. copyright law in creating the Project Gutenberg{~TRADE MARK SIGN~}
+collection. Despite these efforts, Project Gutenberg{~TRADE MARK SIGN~} electronic works,
+and the medium on which they may be stored, may contain "Defects," such
+as, but not limited to, incomplete, inaccurate or corrupt data,
+transcription errors, a copyright or other intellectual property
+infringement, a defective or damaged disk or other medium, a computer
+virus, or computer codes that damage or cannot be read by your equipment.
 
 
 1.F.2.
@@ -17637,13 +17641,13 @@ http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
 Gutenberg Literary Archive Foundation are tax deductible to the full
 extent permitted by U.S. federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809 North
-1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact information
-can be found at the Foundation's web site and official page at
-http://www.pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801)
+596-1887, email business@pglaf.org. Email contact links and up to date
+contact information can be found at the Foundation's web site and official
+page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -17674,7 +17678,7 @@ effort, much paperwork and many fees to meet and keep up with these
 requirements. We do not solicit donations in locations where we have not
 received written confirmation of compliance. To SEND DONATIONS or
 determine the status of compliance for any particular state visit
-http://www.gutenberg.org/fundraising/donate
+http://www.gutenberg.org/donate
 
 While we cannot and do not solicit contributions from states where we have
 not met the solicitation requirements, we know of no prohibition against
@@ -17688,7 +17692,7 @@ United States. U.S. laws alone swamp our small staff.
 Please check the Project Gutenberg Web pages for current donation methods
 and addresses. Donations are accepted in a number of other ways including
 checks, online payments and credit card donations. To donate, please
-visit: http://www.gutenberg.org/fundraising/donate
+visit: http://www.gutenberg.org/donate
 
 
 Section 5.
@@ -17703,17 +17707,17 @@ anyone. For thirty years, he produced and distributed Project Gutenberg{~TRADE M
 eBooks with only a loose network of volunteer support.
 
 Project Gutenberg{~TRADE MARK SIGN~} eBooks are often created from several printed editions,
-all of which are confirmed as Public Domain in the U.S. unless a copyright
-notice is included. Thus, we do not necessarily keep eBooks in compliance
-with any particular paper edition.
+all of which are confirmed as not protected by copyright in the U.S.
+unless a copyright notice is included. Thus, we do not necessarily keep
+ebooks in compliance with any particular paper edition.
 
-Each eBook is in a subdirectory of the same number as the eBook's eBook
+Each ebook is in a subdirectory of the same number as the ebook's ebook
 number, often in several formats including plain vanilla ASCII, compressed
 (zipped), HTML and others.
 
-Corrected _editions_ of our eBooks replace the old file and take over the
+Corrected _editions_ of our ebooks replace the old file and take over the
 old filename and etext number. The replaced older file is renamed.
-_Versions_ based on separate sources are treated as new eBooks receiving
+_Versions_ based on separate sources are treated as new ebooks receiving
 new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
@@ -17724,8 +17728,8 @@ Most people start at our Web site which has the main PG search facility:
 
 This Web site includes information about Project Gutenberg{~TRADE MARK SIGN~}, including how
 to make donations to the Project Gutenberg Literary Archive Foundation,
-how to help produce our new eBooks, and how to subscribe to our email
-newsletter to hear about new eBooks.
+how to help produce our new ebooks, and how to subscribe to our email
+newsletter to hear about new ebooks.
 
 
 
@@ -17733,4 +17737,3 @@ newsletter to hear about new eBooks.
 
 
 ***FINIS***
-
